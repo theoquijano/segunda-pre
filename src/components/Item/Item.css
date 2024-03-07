@@ -1,0 +1,10 @@
+.item-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+.ItemImg {
+    height: 300px;
+    width: 100%;
+}

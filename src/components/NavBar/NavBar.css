@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    padding-left: 3rem;
+    text-transform: uppercase;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: #283747;
+}    
+
+.nav-bar  {
+    display: flex;
+    gap: 2rem;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.Option {
+    color: black;
+}
